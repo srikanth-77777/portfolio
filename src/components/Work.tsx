@@ -51,6 +51,8 @@ const projects = [
     images: [
       "/images/project3-3.png",
       "/images/project3-4.png",
+      "/images/project3-5.png",
+      "/images/project3-6.png",
       "/images/project3-1.png",
       "/images/project3-2.png",
     ],
